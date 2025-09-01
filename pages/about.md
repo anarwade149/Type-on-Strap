@@ -6,9 +6,9 @@ permalink: /about/
 
 ## 👋 Hi, I'm Amol Narwade
 
-I'm a data analyst with over **8 years of experience** delivering data-driven solutions across **banking, fintech, consulting**, and **global retail analytics**.
+I'm a data analyst with over **8 years of experience** delivering data-driven solutions across **Banking, Fintech, Consulting**, and **Global Retail Analytics**.
 
-I’ve worked with organizations like **HDFC Bank**, **IDFC First Bank**, **BDO India**, and multiple international clients as a **freelancer in Berlin**, where I specialize in building scalable analytics solutions, interactive dashboards, and machine learning models to drive operational and strategic impact.
+I’ve worked with organizations like **HDFC Bank**,**V2 Solutions**,**BDO India**, **IDFC First Bank**, and multiple international clients as a **Freelancer in Berlin**, where I specialize in building scalable analytics solutions, interactive dashboards, and machine learning models to drive operational and strategic impact.
 
 ---
 
@@ -33,12 +33,13 @@ I’ve worked with organizations like **HDFC Bank**, **IDFC First Bank**, **BDO 
 
 ### 🛠️ Tools & Technologies
 
-- **Languages**: Python, SQL, DAX  
+- **Languages**: Python, R, Pyspark, SQL, DAX  
 - **Dashboards**: Power BI, Tableau  
 - **Data Engineering**: Databricks, Airflow, dbt, cx_Freeze  
 - **Machine Learning**: XGBoost, Clustering, Logistic Regression  
 - **Cloud & DBs**: Azure, BigQuery, PostgreSQL  
-- **Domains**: Credit Risk, Retail Ops, Invoice Reconciliation, OCR Automation, Customer Segmentation  
+- **Domains**: Credit Risk, Retail Ops, Invoice Reconciliation, OCR Automation, Customer Segmentation 
+- **Leadership & Project Management**: Team Management, Cross-functional Collaboration, Stakeholder Communication
 
 ---
 
@@ -48,4 +49,4 @@ I believe in the power of data not just to explain the past, but to shape better
 
 ---
 
-👉 Want to collaborate or work together? [Get in touch here](/anarwade149@gmail.com/) or connect with me on [LinkedIn](https://linkedin.com/in/amolnarwade).
+👉 Want to collaborate or work together? [Get in touch here](anarwade149@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/amolnarwade).
