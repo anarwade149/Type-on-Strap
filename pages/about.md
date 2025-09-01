@@ -8,7 +8,7 @@ permalink: /about/
 
 I'm a data analyst with over **8 years of experience** delivering data-driven solutions across **Banking, Fintech, Consulting**, and **Global Retail Analytics**.
 
-I’ve worked with organizations like **HDFC Bank**,**V2 Solutions**,**BDO India**, **IDFC First Bank**, and multiple international clients as a **Freelancer in Berlin**, where I specialize in building scalable analytics solutions, interactive dashboards, and machine learning models to drive operational and strategic impact.
+I’ve worked with organizations like **HDFC Bank**, **V2 Solutions**, **BDO India**, **IDFC First Bank**, and multiple international clients as a **Freelancer in Berlin**, where I specialize in building scalable analytics solutions, interactive dashboards, and machine learning models to drive operational and strategic impact.
 
 ---
 
