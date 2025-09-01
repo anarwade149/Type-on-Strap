@@ -1,21 +1,51 @@
-## 👋 Hi, I'm Amol
+---
+layout: page
+title: "About"
+permalink: /about/
+---
 
-I'm a data analyst with over **8 years of experience** building data-driven solutions across **banking, fintech, consulting**, and **global retail analytics**.
+## 👋 Hi, I'm Amol Narwade
 
-I’ve worked with organizations like **HDFC Bank**, **IDFC First Bank**, **BDO India**, and multiple clients as a **freelancer in Berlin**, designing high-impact dashboards and predictive models that drive business outcomes.
+I'm a data analyst with over **8 years of experience** delivering data-driven solutions across **banking, fintech, consulting**, and **global retail analytics**.
 
-My recent work includes:
-- Building **Power BI dashboards** for a multi-location retail client, tracking 30+ KPIs and improving decision-making speed by 35%
-- Collaborating with a Port Authority to monitor **freight throughput, berth utilization**, and **ship turnaround**, reducing idle time by 20%
-- Leading the design of **XGBoost and Logistic Regression models** to reduce credit portfolio risk by 50%
-- Automating tax and invoice reconciliation processes using **OCR (Tesseract + Google Vision)** and Python
+I’ve worked with organizations like **HDFC Bank**, **IDFC First Bank**, **BDO India**, and multiple international clients as a **freelancer in Berlin**, where I specialize in building scalable analytics solutions, interactive dashboards, and machine learning models to drive operational and strategic impact.
 
-### 🛠️ Tools & Tech I Use
+---
+
+### 📌 What I Do
+
+- Build **end-to-end analytics pipelines** with Python, SQL, dbt, and Airflow
+- Design **interactive dashboards** with Power BI and Tableau for business stakeholders
+- Develop and deploy **machine learning models** for credit risk, customer segmentation, and churn prediction
+- Create **automation tools** using OCR (Tesseract, Google Vision) and Python to speed up reporting and reduce manual work
+
+---
+
+### 📊 Career Highlights
+
+- 📍 Improved decision-making by **35%** and reduced manual reporting by **40%** through Power BI automation for a retail analytics client
+- 📍 Built logistics dashboards to track **freight throughput, berth utilization, and ship turnaround**, reducing idle time by **20%**
+- 📍 Developed **XGBoost and Logistic Regression models** to reduce portfolio risk by **50%**
+- 📍 Automated tax and invoice reconciliation using **OCR and Python**, cutting deployment times by **30%**
+- 📍 Led cross-functional teams and trained analysts to deliver key BI initiatives at HDFC Bank
+
+---
+
+### 🛠️ Tools & Technologies
+
 - **Languages**: Python, SQL, DAX  
 - **Dashboards**: Power BI, Tableau  
 - **Data Engineering**: Databricks, Airflow, dbt, cx_Freeze  
 - **Machine Learning**: XGBoost, Clustering, Logistic Regression  
-- **Domains**: Credit Risk, Retail Ops, Tax Reconciliation, OCR Automation, Customer Segmentation  
-- **Cloud & DBs**: Azure, PostgreSQL, BigQuery  
+- **Cloud & DBs**: Azure, BigQuery, PostgreSQL  
+- **Domains**: Credit Risk, Retail Ops, Invoice Reconciliation, OCR Automation, Customer Segmentation  
 
-I specialize in creating clean, scalable analytics solutions that improve efficiency, enable better decision-making, and solve real business problems.
+---
+
+### 💡 My Philosophy
+
+I believe in the power of data not just to explain the past, but to shape better business decisions in the present. Whether it’s reducing churn, detecting anomalies, or creating self-serve reporting tools, I enjoy solving real-world problems that have measurable outcomes.
+
+---
+
+👉 Want to collaborate or work together? [Get in touch here](/anarwade149@gmail.com/) or connect with me on [LinkedIn](https://linkedin.com/in/amolnarwade).
