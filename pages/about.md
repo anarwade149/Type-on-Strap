@@ -1,14 +1,21 @@
----
-layout: page
-title: About
-permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
-tags: [Page]
----
+## 👋 Hi, I'm Amol
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I'm a data analyst with over **8 years of experience** building data-driven solutions across **banking, fintech, consulting**, and **global retail analytics**.
 
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+I’ve worked with organizations like **HDFC Bank**, **IDFC First Bank**, **BDO India**, and multiple clients as a **freelancer in Berlin**, designing high-impact dashboards and predictive models that drive business outcomes.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+My recent work includes:
+- Building **Power BI dashboards** for a multi-location retail client, tracking 30+ KPIs and improving decision-making speed by 35%
+- Collaborating with a Port Authority to monitor **freight throughput, berth utilization**, and **ship turnaround**, reducing idle time by 20%
+- Leading the design of **XGBoost and Logistic Regression models** to reduce credit portfolio risk by 50%
+- Automating tax and invoice reconciliation processes using **OCR (Tesseract + Google Vision)** and Python
+
+### 🛠️ Tools & Tech I Use
+- **Languages**: Python, SQL, DAX  
+- **Dashboards**: Power BI, Tableau  
+- **Data Engineering**: Databricks, Airflow, dbt, cx_Freeze  
+- **Machine Learning**: XGBoost, Clustering, Logistic Regression  
+- **Domains**: Credit Risk, Retail Ops, Tax Reconciliation, OCR Automation, Customer Segmentation  
+- **Cloud & DBs**: Azure, PostgreSQL, BigQuery  
+
+I specialize in creating clean, scalable analytics solutions that improve efficiency, enable better decision-making, and solve real business problems.
