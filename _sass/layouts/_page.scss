@@ -19,3 +19,19 @@ h1.title {
   margin: 0 auto;
   padding: 1rem 1.2rem;   // reduce side padding
 }
+
+.page {
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+
+.page h1, .page h2, .page h3 {
+  margin-bottom: 0.5rem;
+}
+
+.page a {
+  display: inline-block;
+  margin: 0.2rem 0.5rem;
+}
